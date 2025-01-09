@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "sender": "Dosen Mobile-Development",
+      "message": "Jadwal ujian akhir semester mata kuliah Mobile Development akan dimulai pukul 09:30 wib besok."
+    },
+    {
+      "id": 2,
+      "sender": "Dosen Basis Data",
+      "message": "Tolong jangan lupa membawa jas lab"
+    }
+  ]
+  
